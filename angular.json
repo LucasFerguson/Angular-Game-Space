@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Game-Space"
+    }
+  },
+  "defaultProject": "Angular-Game-Space",
+  "cli": {
+    "analytics": "f525cac8-399e-4320-996f-2a391afa563c"
+  }
 }
