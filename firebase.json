@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "Angular-Game-Space",
+      "public": "dist/Angular-Game-Space",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

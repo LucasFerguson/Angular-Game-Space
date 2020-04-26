@@ -121,6 +121,10 @@
               "devServerTarget": "Angular-Game-Space:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-game-space": {
+      "hosting": {
+        "Angular-Game-Space": [
+          "angular-game-space"
+        ]
+      }
+    }
+  }
+}
